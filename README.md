@@ -1,1 +1,1 @@
-s1-platform site
+S1-Platform site
