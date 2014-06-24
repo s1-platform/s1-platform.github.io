@@ -1,0 +1,4 @@
+org.s1.mongodb
+org.s1.mongodb.cluster
+org.s1.mongodb.log
+org.s1.mongodb.table
